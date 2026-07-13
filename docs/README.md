@@ -5,7 +5,6 @@ This folder contains OctoAcme’s project management process documentation. Toge
 OctoAcme follows a lifecycle approach: Initiation, Planning, Execution, Release, and Retrospective. During initiation and planning, teams validate business need, define success metrics, align stakeholders, prioritize backlog items, and map milestones, dependencies, and risks. This ensures work is scoped into shippable increments with clear acceptance criteria and realistic timelines before execution begins.
 
 Delivery is supported by explicit roles and team rhythm. Project Managers coordinate plans, risks, and communication; Product Managers define outcomes and prioritize work; Developers implement and test solutions; QA validates feature acceptance; and stakeholders provide input and approvals. Execution is tracked through regular standups, delivery syncs, sprint demos, project boards, and escalation paths that move blockers from team triage to leadership when needed.
-
 Quality assurance is embedded throughout the process. Teams rely on unit and integration tests, end-to-end smoke checks for critical flows, CI/lint/security scans, and release readiness checklists that include rollback planning and post-deploy verification. After milestones, releases, and incidents, retrospectives capture learnings and convert them into actionable improvements with owners and due dates.
 
 ## Documents Index
