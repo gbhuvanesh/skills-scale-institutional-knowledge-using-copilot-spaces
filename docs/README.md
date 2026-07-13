@@ -8,6 +8,7 @@ Delivery is supported by explicit roles and team rhythm. Project Managers coordi
 
 Quality assurance is embedded throughout the process. Teams rely on unit and integration tests, end-to-end smoke checks for critical flows, CI/lint/security scans, and release readiness checklists that include rollback planning and post-deploy verification. After milestones, releases, and incidents, retrospectives capture learnings and convert them into actionable improvements with owners and due dates.
 
+
 ## Documents Index
 
 - [OctoAcme Project Management Overview](./octoacme-project-management-overview.md)
